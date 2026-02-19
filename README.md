@@ -1,16 +1,37 @@
-## Hi there 👋
+# Petros Tzavellas
 
-<!--
-**ptzavellas/ptzavellas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Candidate in Biostatistics & Health Data Science  
+University of Athens  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research & Analytical Interests
+- Survival Analysis
+- Clinical Trial Design
+- Longitudinal Data Analysis
+- Infectious Disease Modeling
+- Statistical Programming
+
+---
+
+## 🧠 Technical Skills
+
+**Statistical Methods**  
+Kaplan–Meier Estimation, Cox Proportional Hazards, Logistic Regression, Generalized Linear Models, SEIR Models, Bayesian Modeling  
+
+**Programming**  
+R (tidyverse, survival), SQL, Python (Pandas, NumPy), SAS  
+
+---
+
+## 📊 Selected Projects
+
+- **Survival Analysis Project** – Time-to-event modeling and proportional hazards diagnostics  
+- **Infectious Disease Modeling** – SEIR & Bayesian chain binomial simulation  
+- **SQL Data Analysis Project** – Advanced relational querying and trend analysis  
+
+---
+
+## 📫 Contact
+Email: petrostza1997@hotmail.com  
+LinkedIn: linkedin.com/in/petrostzavellas

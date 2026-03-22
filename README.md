@@ -20,7 +20,7 @@ University of Athens
 Kaplan–Meier Estimation, Cox Proportional Hazards, Logistic Regression, Generalized Linear Models, SEIR Models, Bayesian Modeling  
 
 **Programming**  
-R (tidyverse, survival), SQL, Python (Pandas, NumPy), SAS  
+R (tidyverse, survival), SQL, Python (Pandas, NumPy), SAS, Stata, IBM SPSS
 
 ---
 
